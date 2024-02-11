@@ -1,1 +1,2 @@
-Hello, thanks for the commit
+Hello, thanks for the commit.
+Added another line for commit.
